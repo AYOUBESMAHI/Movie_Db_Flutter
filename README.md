@@ -1,16 +1,43 @@
-# moviedb
+# MovieDB Flutter App  
+Welcome to MovieDB, a Flutter app that allows you to explore and discover movies and TV shows. This app was built using the BLoC state management pattern, providing a seamless and efficient user experience. All the data is fetched using The Movie Database (TMDb) API, which you can explore further [here](https://developer.themoviedb.org/).
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Browse a vast collection of movies and TV shows.
+- View detailed information about each title, including synopsis, cast, and ratings.
+- Search for specific movies or shows using keywords.
+- Save your favorite titles to your watchlist.
+- Stay up-to-date with the latest releases and trending movies.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Screenshot_1692123812.png" alt="App Screenshot" width="40%">
+  <img src="Screenshots/Screenshot_1692123829.png" alt="Another Screenshot" width="40%">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<br>
+<div style="display: flex; justify-content: center;align-items: center;">
+  <img src="Screenshots/Screenshot_1692123863.png" alt="App Screenshot" width="40%">
+  <img src="Screenshots/Screenshot_1692123874.png" alt="Another Screenshot" width="40%">
+</div>
+
+
+<br>
+<div style="display: flex; justify-content: center;align-items: center;">
+  <img src="Screenshots/Screenshot_1692123882.png" alt="App Screenshot" width="40%">
+  <img src="Screenshots/Screenshot_1692123889.png" alt="Another Screenshot" width="40%">
+</div>
+
+
+<br>
+<div style="display: flex; justify-content: center;align-items: center;">
+  <img src="Screenshots/Screenshot_1692124157.png" alt="App Screenshot" width="40%">
+  <img src="Screenshots/Screenshot_1692124188.png" alt="Another Screenshot" width="40%">
+</div>
+
+
+
+
